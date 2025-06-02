@@ -5,7 +5,7 @@ This project contains automated tests for the Weather Shopper e-commerce applica
 ## Project Structure
 
 ```
-weather-shopper-tests/
+Selenium-Weather-Project/
 ├── conftest.py                 # Pytest configuration and fixtures
 ├── requirements.txt            # Python dependencies
 ├── pages/                      # Page Object Model classes
